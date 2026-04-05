@@ -216,7 +216,6 @@ G2L["16"] = Instance.new("ImageButton", G2L["f"]);
 G2L["16"]["BorderSizePixel"] = 0;
 G2L["16"]["ImageTransparency"] = 1;
 G2L["16"]["BackgroundTransparency"] = 1;
--- [ERROR] cannot convert ImageContent, please report to "https://github.com/uniquadev/GuiToLuaConverter/issues"
 G2L["16"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["16"]["Image"] = [[rbxasset://textures/ui/GuiImagePlaceholder.png]];
 G2L["16"]["Size"] = UDim2.new(1, 0, 0.99244, 0);
@@ -319,7 +318,6 @@ G2L["21"] = Instance.new("ImageButton", G2L["18"]);
 G2L["21"]["BorderSizePixel"] = 0;
 G2L["21"]["ImageTransparency"] = 1;
 G2L["21"]["BackgroundTransparency"] = 1;
--- [ERROR] cannot convert ImageContent, please report to "https://github.com/uniquadev/GuiToLuaConverter/issues"
 G2L["21"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["21"]["ZIndex"] = 2;
 G2L["21"]["Image"] = [[rbxasset://textures/ui/GuiImagePlaceholder.png]];
@@ -340,7 +338,6 @@ G2L["23"]["ZIndex"] = 3;
 G2L["23"]["BorderSizePixel"] = 0;
 G2L["23"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["23"]["ImageTransparency"] = 0.26;
--- [ERROR] cannot convert ImageContent, please report to "https://github.com/uniquadev/GuiToLuaConverter/issues"
 G2L["23"]["ImageColor3"] = Color3.fromRGB(41, 41, 41);
 G2L["23"]["Image"] = [[rbxassetid://4654143143]];
 G2L["23"]["Size"] = UDim2.new(2.14495, 0, 1.51095, 0);
@@ -469,7 +466,6 @@ G2L["31"] = Instance.new("ImageButton", G2L["2e"]);
 G2L["31"]["BorderSizePixel"] = 0;
 G2L["31"]["ScaleType"] = Enum.ScaleType.Fit;
 G2L["31"]["BackgroundTransparency"] = 1;
--- [ERROR] cannot convert ImageContent, please report to "https://github.com/uniquadev/GuiToLuaConverter/issues"
 G2L["31"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["31"]["Image"] = [[http://www.roblox.com/asset/?id=6022668955]];
 G2L["31"]["Size"] = UDim2.new(1, 0, 1, 0);
@@ -548,7 +544,6 @@ G2L["3b"] = Instance.new("ImageButton", G2L["38"]);
 G2L["3b"]["BorderSizePixel"] = 0;
 G2L["3b"]["ScaleType"] = Enum.ScaleType.Fit;
 G2L["3b"]["BackgroundTransparency"] = 1;
--- [ERROR] cannot convert ImageContent, please report to "https://github.com/uniquadev/GuiToLuaConverter/issues"
 G2L["3b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["3b"]["Image"] = [[http://www.roblox.com/asset/?id=106604037379103]];
 G2L["3b"]["Size"] = UDim2.new(1, 0, 1, 0);
@@ -566,7 +561,6 @@ G2L["3d"]["ZIndex"] = 3;
 G2L["3d"]["BorderSizePixel"] = 0;
 G2L["3d"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["3d"]["ImageTransparency"] = 0.26;
--- [ERROR] cannot convert ImageContent, please report to "https://github.com/uniquadev/GuiToLuaConverter/issues"
 G2L["3d"]["ImageColor3"] = Color3.fromRGB(41, 41, 41);
 G2L["3d"]["Image"] = [[rbxassetid://4654143143]];
 G2L["3d"]["Size"] = UDim2.new(2.14495, 0, 2.09194, 0);
@@ -685,7 +679,6 @@ G2L["49"]["Name"] = [[off]];
 G2L["4a"] = Instance.new("ImageButton", G2L["46"]);
 G2L["4a"]["BorderSizePixel"] = 0;
 G2L["4a"]["ImageTransparency"] = 1;
--- [ERROR] cannot convert ImageContent, please report to "https://github.com/uniquadev/GuiToLuaConverter/issues"
 G2L["4a"]["BackgroundColor3"] = Color3.fromRGB(0, 255, 0);
 G2L["4a"]["Image"] = [[rbxasset://textures/ui/GuiImagePlaceholder.png]];
 G2L["4a"]["Size"] = UDim2.new(0.441, 0, 1, 0);
@@ -728,7 +721,6 @@ G2L["4f"]["SliceCenter"] = Rect.new(0, 0, 1, 1);
 G2L["4f"]["SliceScale"] = 4;
 G2L["4f"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["4f"]["ImageTransparency"] = 0.47;
--- [ERROR] cannot convert ImageContent, please report to "https://github.com/uniquadev/GuiToLuaConverter/issues"
 G2L["4f"]["ImageColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["4f"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
 G2L["4f"]["Image"] = [[rbxassetid://4654143143]];
@@ -758,7 +750,6 @@ G2L["51"]["CornerRadius"] = UDim.new(0.25, 0);
 G2L["52"] = Instance.new("ImageButton", G2L["50"]);
 G2L["52"]["BorderSizePixel"] = 0;
 G2L["52"]["BackgroundTransparency"] = 1;
--- [ERROR] cannot convert ImageContent, please report to "https://github.com/uniquadev/GuiToLuaConverter/issues"
 G2L["52"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["52"]["Image"] = [[http://www.roblox.com/asset/?id=6026568240]];
 G2L["52"]["Size"] = UDim2.new(1, 0, 1, 0);
@@ -902,12 +893,8 @@ G2L["61"]["Name"] = [[on]];
 -- StarterGui.ScreenGui.Frame.UIScale
 G2L["62"] = Instance.new("UIScale", G2L["2"]);
 
-
-
 -- StarterGui.ScreenGui.Frame.UIDragDetector
 G2L["63"] = Instance.new("UIDragDetector", G2L["2"]);
-
-
 
 -- StarterGui.ScreenGui.icon
 G2L["64"] = Instance.new("Frame", G2L["1"]);
@@ -943,18 +930,12 @@ G2L["66"]["Position"] = UDim2.new(0.5, 0, 0.5, 0);
 -- StarterGui.ScreenGui.icon.UIAspectRatioConstraint
 G2L["67"] = Instance.new("UIAspectRatioConstraint", G2L["64"]);
 
-
-
 -- StarterGui.ScreenGui.icon.UIScale
 G2L["68"] = Instance.new("UIScale", G2L["64"]);
-
-
 
 -- StarterGui.ScreenGui.icon.UIDragDetector
 G2L["69"] = Instance.new("UIDragDetector", G2L["64"]);
 G2L["69"]["DragSpace"] = Enum.UIDragDetectorDragSpace.LayerCollector;
--- [ERROR] cannot convert ReferenceUIInstance, please report to "https://github.com/uniquadev/GuiToLuaConverter/issues"
-
 
 -- StarterGui.ScreenGui.intro
 G2L["6a"] = Instance.new("Frame", G2L["1"]);
@@ -970,8 +951,6 @@ G2L["6a"]["Name"] = [[intro]];
 
 -- StarterGui.ScreenGui.intro.UIAspectRatioConstraint
 G2L["6b"] = Instance.new("UIAspectRatioConstraint", G2L["6a"]);
-
-
 
 -- StarterGui.ScreenGui.intro.UIGradient
 G2L["6c"] = Instance.new("UIGradient", G2L["6a"]);
@@ -1017,11 +996,8 @@ G2L["6f"]["Position"] = UDim2.new(0.195, 0, 0.59, 0);
 G2L["70"] = Instance.new("UITextSizeConstraint", G2L["6f"]);
 G2L["70"]["MaxTextSize"] = 14;
 
-
 -- StarterGui.ScreenGui.intro.UIScale
 G2L["71"] = Instance.new("UIScale", G2L["6a"]);
-
-
 
 -- StarterGui.ScreenGui.dark
 G2L["72"] = Instance.new("Frame", G2L["1"]);
@@ -1034,11 +1010,8 @@ G2L["72"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["72"]["Name"] = [[dark]];
 G2L["72"]["BackgroundTransparency"] = 0.65;
 
-
 -- StarterGui.ScreenGui.StringValue
 G2L["73"] = Instance.new("StringValue", G2L["1"]);
-
-
 
 local script = G2L["73"];
 local gui = script.Parent
@@ -1084,8 +1057,9 @@ local fast = TweenInfo.new(.5, Enum.EasingStyle.Exponential)
 local medium = TweenInfo.new(.67)
 local slow = TweenInfo.new(.8)
 
+-- FIXED: Use threshold instead of strict == 0
 function partowner(part)
-	return part.ReceiveAge == 0
+	return part.ReceiveAge < 0.1
 end
 
 clicknpc = true
@@ -1148,7 +1122,6 @@ local intro = function()
 	blur.Parent = lighting
 
 	tweenservice:Create(blur, slow, {Size = 24}):Play()
-
 	tweenservice:Create(dark, slow, {BackgroundTransparency = 0.65}):Play()
 	task.wait(.21)
 	tweenservice:Create(intro, medium, {BackgroundTransparency = 0}):Play()
@@ -1171,7 +1144,7 @@ end
 local create = function()
 	local create = {}
 
-	function create:mainbutton(title : TextLabel, description : TextLabel, func)
+	function create:mainbutton(title, description, func)
 		local buttonsample = main_button:Clone()
 		buttonsample.Parent = main_scrollingframe
 
@@ -1184,9 +1157,8 @@ local create = function()
 					tweenservice:Create(buttonsample.UIStroke, TweenInfo.new(0.1), {Thickness = 1}):Play()
 					task.wait(.2)
 					tweenservice:Create(buttonsample.UIStroke, TweenInfo.new(0.1), {Thickness = 0}):Play()
-
 				end)
-				local _,err = pcall(func)
+				local _, err = pcall(func)
 				if err then
 					error(err)
 				end
@@ -1196,7 +1168,7 @@ local create = function()
 		return buttonsample
 	end
 
-	function create:maintoggle(title : TextLabel, description : TextLabel, func)
+	function create:maintoggle(title, description, func)
 		local togglesample = main_toggle:Clone()
 		local addition = {}
 		togglesample.Parent = main_scrollingframe
@@ -1214,7 +1186,7 @@ local create = function()
 					task.wait(.2)
 					tweenservice:Create(togglesample.UIStroke, TweenInfo.new(.1), {Thickness = 0}):Play()
 				end)
-				local _,err = pcall(func, toggle)
+				local _, err = pcall(func, toggle)
 				if err then
 					error(err)
 				end
@@ -1223,13 +1195,13 @@ local create = function()
 
 		function addition:swich(bool)
 			toggle = bool
-			tweenservice:Create(togglesample.toggle, TweenInfo.new(.2), {BackroundColor3 = toggle and Color3.fromRGB(26, 255, 0) or Color3.fromRGB(188, 0, 0)}):Play()
+			tweenservice:Create(togglesample.toggle, TweenInfo.new(.2), {BackgroundColor3 = toggle and Color3.fromRGB(26, 255, 0) or Color3.fromRGB(188, 0, 0)}):Play()
 		end
 
 		return addition
 	end
 
-	function create:extrabutton(title : TextLabel, func)
+	function create:extrabutton(title, func)
 		local buttonsample = extra_buton:Clone()
 		buttonsample.Parent = extra_scrollingframe
 		buttonsample.TextLabel.Text = title or "error"
@@ -1241,7 +1213,7 @@ local create = function()
 					task.wait(.2)
 					tweenservice:Create(buttonsample.Frame.ImageButton, TweenInfo.new(0.2), {ImageColor3 = Color3.fromRGB(255, 255, 255)}):Play()
 				end)
-				local _,err = pcall(func)
+				local _, err = pcall(func)
 				if err then
 					error(err)
 				end
@@ -1249,7 +1221,7 @@ local create = function()
 		end)
 	end
 
-	function create:extratoggle(title :TextLabel, func)
+	function create:extratoggle(title, func)
 		local togglesample = extra_toggle:Clone()
 		local addition = {}
 		togglesample.Parent = extra_scrollingframe
@@ -1262,20 +1234,19 @@ local create = function()
 				task.spawn(function()
 					tweenservice:Create(togglesample.Frame.ImageButton, TweenInfo.new(.2), {ImageColor3 = toggle and Color3.fromRGB(0, 255, 0) or Color3.fromRGB(232, 232, 232)}):Play()
 				end)
-
-				local _,err = pcall(func, toggle)
+				local _, err = pcall(func, toggle)
 				if err then
 					error(err)
 				end
 			end
 		end)
+
+		return addition
 	end
 
 	return create
 end
 
-
-
 intro()
 
-return {create = create,  G2L = G2L["1"]}
+return {create = create, G2L = G2L["1"]}
